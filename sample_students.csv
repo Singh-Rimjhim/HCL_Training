@@ -1,0 +1,51 @@
+student_id,name,age,gender,department,year,email,phone,cgpa
+STU001,Aarav Sharma,19,Male,Computer Science,2,aarav.sharma@example.com,9000000001,8.4
+STU002,Ananya Verma,20,Female,Information Technology,3,ananya.verma@example.com,9000000002,9.1
+STU003,Ishaan Gupta,18,Male,Electronics,1,ishaan.gupta@example.com,9000000003,7.8
+STU004,Diya Singh,21,Female,Mechanical,4,diya.singh@example.com,9000000004,8.7
+STU005,Vivaan Patel,19,Male,Computer Science,2,vivaan.patel@example.com,9000000005,7.5
+STU006,Myra Joshi,20,Female,Civil,3,myra.joshi@example.com,9000000006,8.9
+STU007,Aditya Kumar,18,Male,Information Technology,1,aditya.kumar@example.com,9000000007,7.2
+STU008,Sara Khan,21,Female,Computer Science,4,sara.khan@example.com,9000000008,9.3
+STU009,Reyansh Mehta,19,Male,Electrical,2,reyansh.mehta@example.com,9000000009,8.1
+STU010,Aadhya Rao,20,Female,Electronics,3,aadhya.rao@example.com,9000000010,8.6
+STU011,Krishna Das,18,Male,Mechanical,1,krishna.das@example.com,9000000011,7.9
+STU012,Ira Malhotra,21,Female,Information Technology,4,ira.malhotra@example.com,9000000012,9.0
+STU013,Arjun Nair,19,Male,Civil,2,arjun.nair@example.com,9000000013,7.6
+STU014,Kiara Kapoor,20,Female,Computer Science,3,kiara.kapoor@example.com,9000000014,8.8
+STU015,Atharv Mishra,18,Male,Electrical,1,atharv.mishra@example.com,9000000015,7.4
+STU016,Anvi Reddy,21,Female,Electronics,4,anvi.reddy@example.com,9000000016,9.2
+STU017,Kabir Chawla,19,Male,Information Technology,2,kabir.chawla@example.com,9000000017,8.0
+STU018,Meera Iyer,20,Female,Mechanical,3,meera.iyer@example.com,9000000018,8.5
+STU019,Rudra Sinha,18,Male,Computer Science,1,rudra.sinha@example.com,9000000019,7.7
+STU020,Saanvi Bansal,21,Female,Civil,4,saanvi.bansal@example.com,9000000020,9.4
+STU021,Dhruv Arora,19,Male,Electrical,2,dhruv.arora@example.com,9000000021,8.2
+STU022,Pari Saxena,20,Female,Computer Science,3,pari.saxena@example.com,9000000022,8.7
+STU023,Yash Thakur,18,Male,Electronics,1,yash.thakur@example.com,9000000023,7.1
+STU024,Navya Pillai,21,Female,Information Technology,4,navya.pillai@example.com,9000000024,9.1
+STU025,Atharva Kulkarni,19,Male,Mechanical,2,atharva.kulkarni@example.com,9000000025,8.3
+STU026,Riya Choudhary,20,Female,Civil,3,riya.choudhary@example.com,9000000026,8.6
+STU027,Devansh Jain,18,Male,Computer Science,1,devansh.jain@example.com,9000000027,7.3
+STU028,Tara Bose,21,Female,Electrical,4,tara.bose@example.com,9000000028,9.0
+STU029,Manav Khanna,19,Male,Information Technology,2,manav.khanna@example.com,9000000029,8.1
+STU030,Zoya Ali,20,Female,Electronics,3,zoya.ali@example.com,9000000030,8.9
+STU031,Pranav Kulkarni,18,Male,Civil,1,pranav.kulkarni@example.com,9000000031,7.6
+STU032,Ishita Roy,21,Female,Computer Science,4,ishita.roy@example.com,9000000032,9.5
+STU033,Samar Banerjee,19,Male,Mechanical,2,samar.banerjee@example.com,9000000033,8.0
+STU034,Naina Oberoi,20,Female,Information Technology,3,naina.oberoi@example.com,9000000034,8.4
+STU035,Om Prakash,18,Male,Electrical,1,om.prakash@example.com,9000000035,7.0
+STU036,Pihu Desai,21,Female,Electronics,4,pihu.desai@example.com,9000000036,9.2
+STU037,Kartik Yadav,19,Male,Computer Science,2,kartik.yadav@example.com,9000000037,8.3
+STU038,Aisha Fernandes,20,Female,Civil,3,aisha.fernandes@example.com,9000000038,8.8
+STU039,Rohan Bhatia,18,Male,Information Technology,1,rohan.bhatia@example.com,9000000039,7.5
+STU040,Mahika Sen,21,Female,Mechanical,4,mahika.sen@example.com,9000000040,9.1
+STU041,Neil D'Souza,19,Male,Electrical,2,neil.dsouza@example.com,9000000041,8.2
+STU042,Shanaya Ghosh,20,Female,Computer Science,3,shanaya.ghosh@example.com,9000000042,8.6
+STU043,Ayaan Sheikh,18,Male,Electronics,1,ayaan.sheikh@example.com,9000000043,7.4
+STU044,Lavanya Menon,21,Female,Information Technology,4,lavanya.menon@example.com,9000000044,9.3
+STU045,Harsh Vardhan,19,Male,Civil,2,harsh.vardhan@example.com,9000000045,7.9
+STU046,Samaira Paul,20,Female,Mechanical,3,samaira.paul@example.com,9000000046,8.7
+STU047,Ritvik Anand,18,Male,Computer Science,1,ritvik.anand@example.com,9000000047,7.8
+STU048,Aarohi Goyal,21,Female,Electrical,4,aarohi.goyal@example.com,9000000048,9.0
+STU049,Vihaan Saxena,19,Male,Information Technology,2,vihaan.saxena@example.com,9000000049,8.4
+STU050,Tanishka Roy,20,Female,Electronics,3,tanishka.roy@example.com,9000000050,8.9
